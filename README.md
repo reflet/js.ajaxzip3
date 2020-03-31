@@ -1,5 +1,5 @@
 # js.ajaxzip3
-住所自動挿入テスト(ajaxzip3.js)を使ってみる。
+住所自動挿入テスト(ajaxzip3.js)を使ってみる。  
 ※ bitbucketのmercurialのサポート終了に伴い、githubへ移植する  
 ※ 割と昔のコードです  
 
